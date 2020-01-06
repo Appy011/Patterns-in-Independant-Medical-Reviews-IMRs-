@@ -14,6 +14,7 @@ by Chinmay Purav
 
 * [Introduction](#Introduction "Goto Introduction")
 * [Goals and Motivation](#Goals-and-Motivation "Goto Goals and Motivation")
+* [Overview of the Data](#Overview-of-the-Data "Goto Overview of the Data")
 * [Exploratory Data Analysis](#Exploratory-Data-Analysis "Goto Exploratory Data Analysis")
 * [Conclusion](#Conclusion "Goto Conclusion")
 
@@ -38,7 +39,10 @@ There are also certain services that it might not cover. Few examples are,
 
 # Goals and Motivation #
 
-Even though the 
+Even though the
+
+
+# Overview of the Data #
 
 # Exploratory Data Analysis #
 
