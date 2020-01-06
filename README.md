@@ -44,6 +44,11 @@ Even though the
 
 # Overview of the Data #
 
+The data was collected from the 'healthdata.gov' webpage.
+
+* There are 28048 recorded cases from 2001 to 2019.
+* 
+
 # Exploratory Data Analysis #
 
 
